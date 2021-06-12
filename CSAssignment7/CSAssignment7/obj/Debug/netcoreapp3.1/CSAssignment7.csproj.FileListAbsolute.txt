@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/bin/Debug/netcoreapp3.1/CSAssignment7.deps.json
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/bin/Debug/netcoreapp3.1/CSAssignment7.runtimeconfig.json
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/bin/Debug/netcoreapp3.1/CSAssignment7.runtimeconfig.dev.json
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/bin/Debug/netcoreapp3.1/CSAssignment7.dll
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/bin/Debug/netcoreapp3.1/CSAssignment7.pdb
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/obj/Debug/netcoreapp3.1/CSAssignment7.csprojAssemblyReference.cache
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/obj/Debug/netcoreapp3.1/CSAssignment7.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/obj/Debug/netcoreapp3.1/CSAssignment7.AssemblyInfo.cs
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/obj/Debug/netcoreapp3.1/CSAssignment7.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/obj/Debug/netcoreapp3.1/CSAssignment7.dll
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/obj/Debug/netcoreapp3.1/CSAssignment7.pdb
+/Users/salom11/Desktop/CSAssignment7/CSAssignment7/CSAssignment7/obj/Debug/netcoreapp3.1/CSAssignment7.genruntimeconfig.cache
